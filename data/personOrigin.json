@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Jose Perez",
+        "height": "178",
+        "gender": "male"
+    },
+    {
+        "title": "Owen Lars",
+        "height": "178",
+        "gender": "male"
+    },
+    {
+        "title": "Beru Whitesun lars",
+        "height": "165",
+        "gender": "female"
+    },
+    {
+        "title": "Maria Beru Perez",
+        "height": "150",
+        "gender": "female"
+    },
+    {
+        "title": "Jorge Perez",
+        "height": "170",
+        "gender": "male"
+    },
+    {
+        "title": "Luis Lars Ramirez",
+        "height": "198",
+        "gender": "male"
+    },
+    {
+        "title": "Vero Ana lars",
+        "height": "165",
+        "gender": "female"
+    },
+    {
+        "title": "Maria Jose Ramirez",
+        "height": "159",
+        "gender": "female"
+    }
+]
